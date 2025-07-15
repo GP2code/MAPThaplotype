@@ -1,7 +1,4 @@
----
-title: README
 
----
 
 # Exploring MAPT-containing H1 and H2 haplotypes  in Parkinson's Disease across diverse populations
 
